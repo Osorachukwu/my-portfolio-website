@@ -38,7 +38,7 @@ function Hero() {
               <a
                 href={resume}
                 download={resume}
-                className="mt-6 text-textLight btn rounded-none bg-inherit border-textLight lg:btn-lg hover:bg-textLight hover:text-white"
+                className="mt-6 text-textLight btn rounded-2xl bg-inherit border-textLight lg:btn-lg hover:bg-textLight hover:text-white"
               >
                 Download CV
               </a>
