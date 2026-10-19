@@ -40,7 +40,8 @@ function Hero() {
                 download={resume}
                 className="mt-6 text-textLight btn rounded-2xl bg-inherit border-textLight lg:btn-lg hover:bg-textLight hover:text-white"
               >
-                Download CV
+              coco
+              
               </a>
             </div>
           </div>
